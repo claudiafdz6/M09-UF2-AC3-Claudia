@@ -1,0 +1,17 @@
+<svg width="560" height="200" xmlns="http://www.w3.org/2000/svg">
+    <!-- fondo azul -->
+    <rect x="0" y="0" width="900" height="150" fill="#80d1ca" />
+
+    <!-- sol -->
+    <circle cx="490" cy="50" r="30" fill="yellow" />
+
+    <!-- montañas -->
+    <polygon points="0,150 70,80 140,150" fill="#828181" />
+    <polygon points="70,150 140,80 210,150" fill="#adadad" />
+    <polygon points="140,150 210,80 280,150" fill="#828181" />
+    <polygon points="210,150 280,80 350,150" fill="#adadad" />
+    <polygon points="280,150 350,80 420,150" fill="#828181" />
+    <polygon points="350,150 420,80 490,150" fill="#adadad" />
+    <polygon points="420,150 490,80 560,150" fill="#828181" />
+
+</svg>
